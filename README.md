@@ -2,6 +2,13 @@
 
 This is a simple React.js web application that allows users to browse and play videos using a predefined API. The application showcases fundamental web development concepts, React.js proficiency, and state management using Redux.
 
+Explore Page
+![Screenshot 2024-03-11 155354](https://github.com/ashishsen003/video-player/assets/112822104/610ccc32-85bf-4e93-bac9-431e158aba68)
+
+Single Vidoe play
+![Screenshot 2024-03-11 155411](https://github.com/ashishsen003/video-player/assets/112822104/d59ef67b-0d42-4192-b7a2-4d7985cd7d27)
+
+
 ## Features
 
 - View a list of predefined video thumbnails.
