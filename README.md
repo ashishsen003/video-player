@@ -2,6 +2,9 @@
 
 This is a simple React.js web application that allows users to browse and play videos using a predefined API. The application showcases fundamental web development concepts, React.js proficiency, and state management using Redux.
 
+## Deployed link
+![https://video-player2-azure.vercel.app/]
+
 ## Explore page
 ![Screenshot 2024-03-11 155354](https://github.com/ashishsen003/video-player/assets/112822104/610ccc32-85bf-4e93-bac9-431e158aba68)
 
