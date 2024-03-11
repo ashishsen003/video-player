@@ -26,7 +26,7 @@ This is a simple React.js web application that allows users to browse and play v
    https://github.com/ashishsen003/video-player.git
    cd video-clone
 
-```npm install
+   ```npm install
 
-```npm start
+   ```npm start
 
